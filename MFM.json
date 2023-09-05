@@ -8,14 +8,13 @@
           "ModURL": "https://modsformelon.killakill.fun/Categories/Armor/TestMod6/TestMod6.melmod",
           "Name": "TestMod6",
           "TextURL": "https://modsformelon.killakill.fun/Categories/Armor/TestMod6/TestMod6.txt"
-        }
+        },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Armor/TestMod6/TestMod6.melmod",
           "Name": "TestMod6",
           "TextURL": "https://modsformelon.killakill.fun/Categories/Armor/TestMod6/TestMod6.txt"
         }
-        // інші предмети Armor
       ]
     },
     "Weapon": {
@@ -26,14 +25,13 @@
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "TestMod1",
           "TextURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.txt"
-        }
+        },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "TestMod1",
           "TextURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.txt"
         }
-        // інші предмети Weapon
       ]
     }
   }
