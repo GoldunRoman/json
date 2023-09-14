@@ -7,37 +7,43 @@
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Armor/TestMod6/TestMod6.melmod",
           "Name": "ArmorTestMod1",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type" :  ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Armor/TestMod6/TestMod6.melmod",
           "Name": "ArmorTestMod2",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Armor/TestMod6/TestMod6.melmod",
           "Name": "ArmorTestMod3",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Armor/TestMod6/TestMod6.melmod",
           "Name": "ArmorTestMod4",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Armor/TestMod6/TestMod6.melmod",
           "Name": "ArmorTestMod5",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Armor/TestMod6/TestMod6.melmod",
           "Name": "ArmorTestMod6",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         }
       ]
     },
@@ -48,43 +54,50 @@
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "WeaponTestMod1",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "WeaponTestMod2",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "WeaponTestMod3",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "WeaponTestMod4",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "WeaponTestMod5",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "WeaponTestMod6",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "WeaponTestMod7",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         }
       ]
     },
@@ -95,43 +108,50 @@
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OtherTestMod1",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OtherTestMod2",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OtherTestMod3",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OtherTestMod4",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OtherTestMod5",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OtherTestMod6",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OtherTestMod7",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         }
       ]
     },
@@ -142,43 +162,50 @@
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "FoodTestMod1",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "FoodTestMod2",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "FoodTestMod3",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "FoodTestMod4",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "FoodTestMod5",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "FoodTestMod6",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "FoodTestMod7",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         }
       ]
     },
@@ -189,43 +216,50 @@
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OutfitsTestMod1",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OutfitsTestMod2",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OutfitsTestMod3",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OutfitsTestMod4",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OutfitsTestMod5",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OutfitsTestMod6",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "OutfitsTestMod7",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         }
       ]
     },
@@ -236,43 +270,50 @@
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "CharactersTestMod1",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "CharactersTestMod2",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "CharactersTestMod3",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "CharactersTestMod4",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "CharactersTestMod5",
-          "TextURL": "Some description text...t"
+          "Description": "Some description text...t",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "CharactersTestMod6",
-          "TextURL": "Some description text...txt"
+          "Description": "Some description text...txt",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "CharactersTestMod7",
-          "TextURL": "Some description text...t"
+          "Description": "Some description text...t",
+          "Type": ".melmod"
         }
       ]
     },
@@ -283,43 +324,50 @@
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "MapsTestMod1",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "MapsTestMod2",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "MapsTestMod3",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "MapsTestMod4",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "MapsTestMod5",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "MapsTestMod6",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "MapsTestMod7",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         }
       ]
     },
@@ -330,43 +378,50 @@
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "ConstructionsTestMod1",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "ConstructionsTestMod2",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "ConstructionsTestMod3",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "ConstructionsrTestMod4",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "ConstructionsTestMod5",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "ConstructionsTestMod6",
-          "TextURL": "Some description text...1.txt"
+          "Description": "Some description text...1.txt",
+          "Type": ".melmod"
         },
         {
           "ImageURL": "https://i.ibb.co/k4JbSyP/Weapon.png",
           "ModURL": "https://modsformelon.killakill.fun/Categories/Weapon/TestMod1/TestMod1.melmod",
           "Name": "ConstructionsTestMod7",
-          "TextURL": "Some description text..."
+          "Description": "Some description text...",
+          "Type" :  ".melmod"
         }
       ]
     }
